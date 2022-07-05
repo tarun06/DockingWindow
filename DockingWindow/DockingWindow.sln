@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DockingWindow", "DockingWindow.csproj", "{5721105A-37D7-42A8-B0F3-882CC44701FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DockingLib", "..\DockingLib\DockingLib.csproj", "{8DDBBFE0-43F3-4299-90D9-91C0E0E1D1EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5721105A-37D7-42A8-B0F3-882CC44701FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5721105A-37D7-42A8-B0F3-882CC44701FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5721105A-37D7-42A8-B0F3-882CC44701FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5721105A-37D7-42A8-B0F3-882CC44701FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDBBFE0-43F3-4299-90D9-91C0E0E1D1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDBBFE0-43F3-4299-90D9-91C0E0E1D1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDBBFE0-43F3-4299-90D9-91C0E0E1D1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDBBFE0-43F3-4299-90D9-91C0E0E1D1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5BF1860-0E4D-42AD-9755-D728012A8522}
+	EndGlobalSection
+EndGlobal
